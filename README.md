@@ -2,7 +2,7 @@
 
 Solidifying my knowledge about Webpack.
 
-Repo workflow:
+## Repo workflow:
 
 `Run 'npm i --save-dev webpack'.`
 
