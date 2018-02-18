@@ -36,6 +36,8 @@ Repo workflow:
 
 `Make changes in the webpack.config.js file and corresponding to compress the image files.`
 
+`Edit image_viewer.js to add System.import call for code splitting. This will make multiple bundle.js files so that the page load is faster.`
+
 This repo doesn't have much to show.
 
 If this helped you, tweet at me!
